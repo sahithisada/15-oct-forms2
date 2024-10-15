@@ -1,0 +1,25 @@
+form{
+    background-color: rgb(183, 168, 168);
+    display: inline-block;
+    position: relative;
+    left: 400px;
+    padding: 10px;
+}
+p{
+    text-align: center;
+}
+form label{
+    width: 300px;
+    display: inline-block;
+    font-size: 2rem;
+}
+form div{
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
+.inner{
+    width: auto;
+    font-size: 1rem;
+}
